@@ -1,8 +1,8 @@
 nome = input("Digite seu nome"" ")
-num1 = float(input("digite o primeiro numero"))
-num2 = float(input("digite o segundo numero"))
+num1 = float(input("Digite o primeiro numero"))
+num2 = float(input("Digite o segundo numero"))
 
-print("escolha a operação"" ")
+print("Escolha a operação"" ")
 print("1 - adição")
 print("2 - subtração")
 print("3 - multiplicação")
