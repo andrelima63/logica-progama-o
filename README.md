@@ -1,7 +1,7 @@
 # logica progamação
 curso de logica de progamação em python
 pode abrir pelo visual studio code
-os arquivos .py e os arquivos .sh no ubunto
+os arquivos .py e os arquivos .sh no ubuntu
 
 
 esse aqui: https://apps.microsoft.com/detail/9PDXGNCFSCZV?hl=neutral&gl=BR&ocid=pdpshare
